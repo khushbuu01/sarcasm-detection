@@ -2,6 +2,7 @@ import meter1 from "../assets/img/meter-79.png";
 import meter2 from "../assets/img/meter-85.png";
 import meter3 from "../assets/img/meter-87.png";
 import meter4 from "../assets/img/meter-89.png";
+import meter5 from "../assets/img/meter-86.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import arrow1 from "../assets/img/arrow1.svg";
@@ -50,7 +51,7 @@ export const Skills = () => {
                   <h5>Naive Bayes</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter5} alt="Image" />
                   <h5>Logistic Regression</h5>
                 </div>
                 <div className="item">
